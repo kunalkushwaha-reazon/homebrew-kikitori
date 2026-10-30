@@ -6,6 +6,13 @@ English live. Everything runs on your Mac with Apple's own speech,
 translation and Apple Intelligence models: no cloud services, no accounts,
 no telemetry.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/panel-dark.png">
+    <img src="images/panel-light.png" width="380" alt="The Kikitori live translation panel: Japanese and English captions, each with its translation, newest at the top">
+  </picture>
+</p>
+
 ## Install
 
 ```bash
