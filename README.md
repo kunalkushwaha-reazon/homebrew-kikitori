@@ -21,7 +21,8 @@ brew install --cask kunalkushwaha-reazon/kikitori/kikitori
 
 Kikitori isn't notarized by Apple yet, so macOS blocks it the first time you
 open it. Go to **System Settings › Privacy & Security** and click **Open
-Anyway**. Then look for the waveform icon in the menu bar.
+Anyway**. Then look for the waveform icon in the menu bar. If it's hidden
+behind the camera notch, press **⌃⌥K** in any app to open the Kikitori menu.
 
 To update, run `brew upgrade --cask kikitori`. macOS asks for microphone,
 system audio and calendar permissions again after each update. That's
@@ -46,6 +47,7 @@ expected until releases are signed.
 - **Record meetings**, from your microphone or both sides of a call.
 - **Transcripts and summaries** after the meeting, written on your Mac.
 - **Calendar reminders** with Start Recording buttons.
+- **Menu shortcut** (⌃⌥K, configurable) to open the menu from any app.
 
 Release notes are on the [Releases](https://github.com/kunalkushwaha-reazon/homebrew-kikitori/releases)
 page. Kikitori's source code is being prepared for publication under the
