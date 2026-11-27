@@ -1,6 +1,6 @@
 cask "kikitori" do
-  version "0.1.4"
-  sha256 "71be60af3e948440b65c109e7958247b47684342a392147e1ad500385247e1fa"
+  version "0.2.0"
+  sha256 "3ae5dbbbc21d5672a11e205905d9c13cc44119a66bd1bbc6d23b0ca2ff546cbe"
 
   url "https://github.com/kunalkushwaha-reazon/homebrew-kikitori/releases/download/v#{version}/Kikitori-#{version}-arm64.zip"
   name "Kikitori"
